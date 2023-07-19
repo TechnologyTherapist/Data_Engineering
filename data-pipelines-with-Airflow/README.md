@@ -1,4 +1,4 @@
-Sure! Here's a sample README file for your DE - ETL pipeline + data modeling project:
+
 
 # DE - ETL Pipeline + Data Modeling
 
